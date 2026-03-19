@@ -5,7 +5,7 @@ A modern and interactive Tic Tac Toe game built using HTML, CSS, and JavaScript 
 ---
 
 ## 🚀 Live Demo
-👉 https://your-live-link.com
+👉  https://kaushikshivam-stack.github.io/my-tictactoe/
 
 ---
 
