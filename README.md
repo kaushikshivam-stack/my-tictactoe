@@ -32,7 +32,10 @@ A modern and interactive Tic Tac Toe game built using HTML, CSS, and JavaScript 
 
 ## 📸 Screenshots
 
-(Add your screenshots here)
+<p align="center">
+  <img src="images/screenshot1.png" width="45%">
+  <img src="images/screenshot2.png" width="45%">
+</p>
 
 ---
 
